@@ -22,7 +22,7 @@ The script supports multiple datasets. Prepare the following directories/files.
   - `mydatasets/BjTT/text/{1,2,3}/*.txt`
 - Prior matrix: `mydatasets/prior_matrix/BjTT_matrix_prior.npy`
 
-2) Terra (UK region example)
+2) Terra
 - Time series: `mydatasets/Terra/time_series/wind_daily.npy`
 - Images: `mydatasets/Terra/image/relief_{lat}{N|S}_{lon}{E|W}.png`
 - Texts: `mydatasets/Terra/texts/meta_{lat}{N|S}_{lon}{E|W}.txt`
