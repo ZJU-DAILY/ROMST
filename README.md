@@ -46,7 +46,7 @@ mkdir -p mydatasets/PEMS04
 mkdir -p mydatasets/GreenEarthNet
 ```
 Note: Due to the excessive size of certain datasets, only partial datasets are provided herein. The complete datasets can be found on the official website
-- BjTT:
+- BjTT: https://github.com/ChyaZhang/BjTT
 - Terra: https://github.com/CityMind-Lab/NeurIPS24-Terra
 - PEMS04: https://github.com/Davidham3/ASTGCN
 - GreenEarthNet: https://github.com/vitusbenson/greenearthnet
