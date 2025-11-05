@@ -6,10 +6,7 @@ import numpy as np
 class SpatialTemporalAugmentation(nn.Module):
  
     def __init__(self, alpha):
-        """
-        Args:
-            alpha: 多样性损失权重
-        """
+
         super().__init__()
         self.alpha = alpha
         self.eps = 1e-6
