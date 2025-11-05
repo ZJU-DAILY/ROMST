@@ -118,6 +118,8 @@ Notes
 - The script prunes the text encoder once at startup when `--use_text` is enabled: `--pruning_ratio [0.0–1.0]`.
 - Continual learning segments are controlled internally; you can change `index` via `--index` and rerun if needed.
 
+## LLaMA Model
+In this experiment, we use the meta-llama/Llama-3.2-1B model. Please place the downloaded model in the ./llama 1b folder.
 
 ## Outputs
 
