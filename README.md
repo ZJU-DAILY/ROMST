@@ -1,6 +1,6 @@
 # ROMST
 This is a PyTorch implementation of the paper: Online Multi-Modal Spatio-Temporal Prediction: A Reinforcement Learning and Dynamic Contrastive Framework(ROMST)
-![framewwork](./image/framework.pdf)
+![framewwork](./image/framework.png)
 
 ## Requirements & Configuration
 
