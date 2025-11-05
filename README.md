@@ -128,5 +128,3 @@ Notes
   - Rewards: `checkpoint/reward/reward_trend_{dataset}_*.csv|.png`
   - Modal weights: `checkpoint/weights/weights_trend_{dataset}_*.csv|.png|.txt`
 
-
-## Acknowledgements
